@@ -1,0 +1,1 @@
+uglifyjs main.js -o main.min.js -c -m --mangle-props --toplevel
